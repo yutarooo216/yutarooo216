@@ -17,8 +17,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [RNA 3D Prediction App](https://yutarooo216.github.io/portforio) | RNA配列から3D構造予測を行うWebアプリ | React, FastAPI, Kubernetes |
-| [Microbiome Analysis Pipeline](https://github.com/yutarooo216/microbiome-pipeline) | 16S rRNAデータ解析の自動化パイプライン | Python, QIIME2, Snakemake |
+| [RNA 3D Prediction App](https://github.com/yutarooo216/rna_3d_prediction) | RNA配列から3D構造予測を行うWebアプリ | React, FastAPI, Kubernetes 
 
 ---
 
@@ -26,14 +25,13 @@
 
 - 🌐 [ポートフォリオサイト](https://yutarooo216.github.io/portforio)
 - 🐙 [GitHub](https://github.com/yutarooo216)
-- 📊 [Kaggle](https://www.kaggle.com/your-kaggle-username) ※←URLは自分のに変更してください
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id) ※←URLは自分のに変更してください
+- 📊 [Kaggle](https://www.kaggle.com/yutaroito)
 
 ---
 
 ## 📫 連絡先
 
-- 📧 Email: `your.email@example.com`
+- 📧 Email: `yutarooo216@gmail.com`
 - 📃 論文リストや業務実績など、詳細はポートフォリオをご覧ください！
 
 ---
