@@ -1,7 +1,7 @@
 # プロフィール
 
 大学院で分子生物学・バイオインフォマティクスを専攻。メーカー研究職->ITメーカー 医療系データサイエンティスト->外資製薬エンジニア。  
-副業ではバイオインフォマティクスの受託研究に関わり、論文執筆や解析パイプラインの構築を担当しています。
+副業ではバイオインフォマティクスの受託研究に関わり、論文執筆や解析パイプラインの構築を担当。
 
 ---
 
@@ -9,7 +9,7 @@
 
 - 💻 Programming: **Python**, **R**, **JavaScript (React)**, **SQL**, **Shell script**
 - ☁️ Infra & DevOps: **AWS**, **Kubernetes**, **Terraform**
-- 🧬 Bioinformatics: 解析パイプライン構築、NGS、16S、RNA構造予測 など
+- 🧬 Bioinformatics: 解析パイプライン構築、NGS、Microbiome解析、RNA構造予測 など
 
 ---
 
