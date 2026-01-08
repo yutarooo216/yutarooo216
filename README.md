@@ -23,8 +23,6 @@
 ---
 
 ## 🌍 Links
-
-* 🌐 [ポートフォリオサイト](https://yutarooo216.github.io/portforio)
 * 🐙 [GitHub](https://github.com/yutarooo216)
 * 📊 [Kaggle](https://www.kaggle.com/yutaroito)
 
